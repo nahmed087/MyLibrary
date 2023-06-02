@@ -3,7 +3,7 @@ The repo contains some of the literature (books, papers, articles, magazines, pr
 
 The number of items in each folder is tabulated below :)
 
-| S. No        | Item name | # Items    |
+| S. No        | Item name | No. of Items    |
 |--------------|-----------|------------|
 | 1            | Books     | 1        |
 | 2            | Papers    | 0       |
