@@ -5,8 +5,8 @@ The number of items in each folder is tabulated below :)
 
 | S. No        | Item name | # Items    |
 |--------------|-----------|------------|
-| 1            | Books     | *7*        |
-| 2            | Papers    | 5234       |
-| 3            | Articles  | 5234       |
+| 1            | Books     | 1        |
+| 2            | Papers    | 0       |
+| 3            | Articles  | 0       |
 
 Enjoy! 
