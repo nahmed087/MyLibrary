@@ -6,7 +6,7 @@ The number of items in each folder is tabulated below :)
 | S. No        | Item name | No. of Items    |
 |--------------|-----------|------------|
 | 1            | Books     | 1        |
-| 2            | Papers    | 0       |
+| 2            | Papers    | 2      |
 | 3            | Articles  | 0       |
 | 4            | Magazines  | 0       |
 | 5            | Presentations  | 1       |
